@@ -13,7 +13,8 @@
  * Autoprefixer to provide prefixed properties and values. Avoid using
  * non-spec properties entirely.
  *
- * The .json file is CSScomb compatible.
+ * Comments are not valid in json, and should be stripped before using.
+ * This file is CSScomb compatible.
 */
 
 {

@@ -11,4 +11,4 @@ Longhand properties are indented under their shorthand property to add visual se
 
 Prefixed, non-spec, and deprecated properties have been removed. Use [Autoprefixer](https://github.com/ai/autoprefixer) to provide prefixed properties and values. Avoid using non-spec properties entirely.
 
-The .json file is [CSScomb](http://csscomb.com/) compatible.
+Comments are not valid in json, and should be stripped before using. The .json file is [CSScomb](http://csscomb.com/) compatible.
