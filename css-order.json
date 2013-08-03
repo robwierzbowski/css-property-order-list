@@ -216,6 +216,7 @@
       "text-overflow",
       "text-overflow-ellipsis",
       "text-overflow-mode",
+      "text-size-adjust",
       "text-transform",
       "text-wrap",
       "text-shadow",
