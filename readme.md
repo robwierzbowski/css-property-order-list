@@ -5,6 +5,7 @@ Properties are ordered by:
 - Category
 - Shorthand and longhand properties
 - Top-right-bottom-left
+- Width-height
 - Alphabetically
 
 Longhand properties are indented under their shorthand property to add visual semantics.
