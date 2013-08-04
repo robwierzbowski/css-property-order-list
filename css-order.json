@@ -224,9 +224,6 @@
       "vertical-align",
       "writing-mode",
 
-    // Pointers
-      "cursor",
-
     // White space
       "hyphens",
       "letter-spacing",
@@ -234,7 +231,19 @@
       "white-space",
       "word-break",
       "word-spacing",
-      "word-wrap"
+      "word-wrap",
+
+    // Interaction
+      "cursor",
+      "pointer-events", // (upcoming)
+      "resize",
+
+    // Keyboard Interaction
+      "nav-index",
+      "nav-up",
+      "nav-right",
+      "nav-down",
+      "nav-left"
     ],
 
     [
@@ -246,7 +255,7 @@
     ],
 
     [
-    // Manipulation, animation, interaction //////////////////////////////////////
+    // Manipulation, animation /////////////////////////////////////////////////
 
     // Transition
       "transition",
@@ -269,15 +278,7 @@
     // Transform
       "filter",
       "transform",
-      "transform-origin",
-
-    // Interaction
-      "nav-index",
-      "nav-up",
-      "nav-right",
-      "nav-down",
-      "nav-left",
-      "pointer-events" // (upcoming)
+      "transform-origin"
     ],
 
     [
