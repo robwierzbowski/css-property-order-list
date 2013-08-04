@@ -143,20 +143,6 @@
         "outline-color",
       "outline-offset",
 
-    // Background
-      "background",
-        "background-color",
-        "background-image",
-        "background-repeat",
-        "background-attachment",
-        "background-position",
-      "background-clip",
-      "background-origin",
-      "background-size",
-
-    // Behind the background
-      "box-shadow",
-
     // Overflow
       "clip",
       "overflow",
@@ -233,25 +219,37 @@
       "word-spacing",
       "word-wrap",
 
-    // Interaction
+    // Pointers
       "cursor",
-      "pointer-events", // (upcoming)
-      "resize",
 
-    // Keyboard Interaction
+    // Interaction
       "nav-index",
       "nav-up",
       "nav-right",
       "nav-down",
-      "nav-left"
-    ],
+      "nav-left",
+      "pointer-events", // (upcoming)
+      "resize",
 
-    [
     // Generated content
       "content",
       "counter-increment",
       "counter-reset",
-      "quotes"
+      "quotes",
+
+    // Background
+      "background",
+        "background-color",
+        "background-image",
+        "background-repeat",
+        "background-attachment",
+        "background-position",
+      "background-clip",
+      "background-origin",
+      "background-size",
+
+    // Behind the background
+      "box-shadow"
     ],
 
     [
